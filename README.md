@@ -1,12 +1,11 @@
-# Zora V1 Subgraph
+# DiGi V1 Subgraph
 
-The [Zora Subgraph](https://github.com/ourzora/zora-v1-subgraph), is a public subgraph implementation of the Graph Protocol for the Zora Protocol. It syncs with the blockchain and indexes pertinent data about Zora cryptomedia. It also provides an easy to use GraphQL interface for developers to imply query data about the Zora Protocol.
+The [DiGi Subgraph](https://github.com/digi-gallery/v1-subgraph), is a public subgraph implementation of the Graph Protocol for the DiGi Protocol. It syncs with the blockchain and indexes pertinent data about DiGimedia. It also provides an easy to use GraphQL interface for developers to imply query data about the Zora Protocol.
 
-The Graph offers a hosted service for public interaction with the Zora Subgraph, but you can also run your own graph-node with a Zora Subgraph by following the Graph's [documentation](https://thegraph.com/docs/network#indexing) and joining their Indexer discord.
+The Graph offers a hosted service for public interaction with the DiGi Subgraph, but you can also run your own graph-node with a DIGI Subgraph by following the Graph's [documentation](https://thegraph.com/docs/network#indexing) and joining their Indexer discord.
 
 Networks:
-- [Rinkeby](https://thegraph.com/explorer/subgraph/ourzora/zora-v1)
-- [Mainnet](https://thegraph.com/explorer/subgraph/ourzora/zora-v1-rinkeby)
+- [Sepolia](https://thegraph.com/explorer/subgraph/ourzora/zora-v1)
 
 Documentation:
 - [Entities](docs/entities.md)
