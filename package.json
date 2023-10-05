@@ -15,7 +15,8 @@
     "test": "jest",
     "codegen": "graph codegen --output-dir types",
     "build": "graph build",
-    "deploy": "graph deploy kimhabork/digi-v1-subgraph --ipfs https://api.thegraph.com/ipfs/ --node https://api.thegraph.com/deploy/",
+    "auth": "graph auth --product hosted-service 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",
+    "deploy": "graph deploy --product hosted-service digi-gallery/digi-v1",
     "deploy-local": "graph deploy kimhabork/digi-v1-subgraph --ipfs http://139.162.66.128:5001 --node http://139.162.66.128:8020",
     "runAuction": "ts-node scripts/auctionHouse.ts"
   },
