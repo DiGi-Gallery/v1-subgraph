@@ -1,0 +1,10 @@
+{
+  "network": "sepolia",
+  "marketAddress": "0x93E7b21c62DFAFf37Defd54000BFf35E3747f211",
+  "marketStartBlock": 4367806,
+  "mediaAddress": "0xDF52bBA1d9fe251236a0cd85f17f5c23E2490763",
+  "mediaStartBlock": 4367896,
+  "digiAddress": "0xdF3031218BA9366A59FE84dA66837428aEf57c9C",
+  "auctionHouseAddress": "0x545D1e38589390Bc0B862232EE29956f134Faa69",
+  "auctionHouseStartBlock": 4368022	
+}
