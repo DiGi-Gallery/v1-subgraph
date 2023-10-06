@@ -26,5 +26,4 @@ jobs:
         cache: 'yarn'
     - run: yarn
     - run: yarn codegen && yarn build
-    - run: yarn auth
-    - run: yarn deploy
+    - run: yarn test
